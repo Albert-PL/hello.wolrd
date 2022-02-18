@@ -1,2 +1,2 @@
 # hello.wolrd
-The is my first github code repoistory(I am a rook)
+The is a test repository for L.albert 's video
